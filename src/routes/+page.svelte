@@ -181,7 +181,6 @@
 									href={result.bookmarkletCode}
 									title="Drag me to your bookmarks bar"
 								>
-									<span class="bm-icon">#</span>
 									{bookmarkletName || 'Bookmarklet'}
 								</a>
 							</div>
