@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="markletsmith-logo.png" alt="markletsmith" width="160" />
+  <img src="public/markletsmith-logo.png" alt="markletsmith" width="160" />
 </p>
 
 <h1 align="center">markletsmith</h1>
