@@ -526,6 +526,10 @@
 		resize: vertical;
 	}
 
+	.textarea::placeholder {
+		font-size: 11px;
+	}
+
 	.hint {
 		font-size: 10px;
 		color: #555;
